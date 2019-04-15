@@ -8,11 +8,11 @@ spring:
   profiles:
     active: dev 
     application:
-        name:microservicecloud-config-atguigu-dev
+        name: microservicecloud-config-atguigu-dev
      
 ---
 spring:
   profiles:
     active: test 
     application:
-        name:microservicecloud-config-atguigu-test
+        name: microservicecloud-config-atguigu-test
