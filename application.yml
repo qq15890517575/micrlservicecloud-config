@@ -15,4 +15,8 @@ spring:
   profiles:
     active: test 
     application:
+<<<<<<< HEAD
         name: microservicecloud-config-atguigu-test
+=======
+        name: microservicecloud-config-atguigu-test
+>>>>>>> 90e740f36c36f3f0cc63f5824e965406f02a5fe9
